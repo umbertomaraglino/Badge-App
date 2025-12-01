@@ -14,7 +14,7 @@ Badge-App è una semplice applicazione Flutter per segnare l'orario di ingresso 
 ## Esempi schermate
 
 <img src="IMG/Img1.png" width="350"/>
-<img src="IMG/Img2.png" width="350"/>
+<img src="IMG/img2.png" width="350"/>
 
 
 ## Come funziona
